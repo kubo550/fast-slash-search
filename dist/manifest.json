@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Slash Search Sast",
+    "version": "1.0.1",
+    "description": "Click \\ on any page and start writing",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "index.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ]
+}
