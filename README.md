@@ -9,7 +9,7 @@ This Project is an **open source**, you can modify files on your desktop
 1. Go to the [dowload page](https://www.facebook.com/).
 2. Download the ZIP file on your computer.
  OR 
-1. Download ```bash ./dist ``` folder
+1. Download ``` ./dist ``` folder
 
 ## Instalation
 
