@@ -1,6 +1,11 @@
 # fast-slash-search
 
-# For Developers 
+## Ussage
+
+Click "\" key on any page it will automatically focus on search input.
+
+
+## For Developers 
 
 This Project is an **open source**, you can modify files on your desktop
 
